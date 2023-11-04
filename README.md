@@ -29,4 +29,5 @@ Using templates from previous assignments, I created an `about.html`, `home.html
 3. Type in `az account list --output table`, and make sure the correct subscription is selected. If not type in `az account set --subscription <paste the desired SubscriptionId here>`
 4. Type in az `webapp up --name <replace with what you would like to name the webapp> --runtime PYTHON:3.9 --sku B1` and wait for deployment to finish
 5. Go to `App Service` in Azure and click on the link in `Default domain`
+6. Screenshots of the deployment being successful can be seen in [flaskapp](https://github.com/EugeneHsiung/flask_5_tailwind/tree/main/flaskapp). 
 
